@@ -42,7 +42,7 @@ for i in range(n):
 X[n-1] = a[n-1][n]/a[n-1][n-1]
 for i in range(n-2,-1,-1):
     X[i] = a[i][n]
-*/
+```
 
 
 ## Output:
